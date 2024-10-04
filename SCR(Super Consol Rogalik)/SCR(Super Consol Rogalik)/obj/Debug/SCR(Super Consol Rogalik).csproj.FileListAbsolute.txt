@@ -1,0 +1,7 @@
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Debug\SCR(Super Consol Rogalik).exe.config
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Debug\SCR(Super Consol Rogalik).exe
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Debug\SCR(Super Consol Rogalik).pdb
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Debug\SCR(Super Consol Rogalik).csproj.AssemblyReference.cache
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Debug\SCR(Super Consol Rogalik).csproj.CoreCompileInputs.cache
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Debug\SCR(Super Consol Rogalik).exe
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Debug\SCR(Super Consol Rogalik).pdb

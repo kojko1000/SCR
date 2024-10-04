@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SCR(Super Consol Rogalik)": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

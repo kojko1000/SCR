@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8GkJmQUd80ObYwy+GfTsMM24CPcTuUlUPiVx3bbllBttXvsiIox3frKtB4kvZRLUlE4WBJ7JBzddn54civtaw==",
+  "success": true,
+  "projectFilePath": "D:\\SCR(Super Consol Rogalik)\\SCR(Super Consol Rogalik)\\SCR(Super Consol Rogalik).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

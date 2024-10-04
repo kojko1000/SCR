@@ -1,0 +1,21 @@
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).exe
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).dll.config
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).deps.json
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).runtimeconfig.json
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\SCR(Super Consol Rogalik).pdb
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\System.Drawing.Common.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\System.Windows.Extensions.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\bin\Release\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).csproj.AssemblyReference.cache
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).GeneratedMSBuildEditorConfig.editorconfig
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).csproj.CoreCompileInputs.cache
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).csproj.CopyComplete
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\refint\SCR(Super Consol Rogalik).dll
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).pdb
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\SCR(Super Consol Rogalik).genruntimeconfig.cache
+D:\SCR(Super Consol Rogalik)\SCR(Super Consol Rogalik)\obj\Release\net7.0\ref\SCR(Super Consol Rogalik).dll
